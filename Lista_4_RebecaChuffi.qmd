@@ -1,0 +1,33 @@
+---
+title: 'Lista 4: Ajustando a rede com PyTorch'
+subtitle: "Redes Neurais 2/2025"
+author: "Rebeca Chuffi Saccochi"
+date: ""
+output: html_document
+geometry: a4paper
+fontsize: 12pt
+format:
+  html:
+    code-fold: false
+    code-summary: "Mostrar Códigos"
+    toc: true
+    toc-title: "Índice"
+    lightbox: true
+        
+---
+
+
+{{< embed Cod4.ipynb echo=true >}}
+
+
+
+
+
+
+
+
+
+
+
+
+
